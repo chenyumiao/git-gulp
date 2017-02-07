@@ -1,0 +1,12 @@
+{
+  "name": "git-gulp",
+  "version": "1.0.0",
+  "description": "git-gulp",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "author": "chenyumiao",
+  "license": "ISC"
+}
